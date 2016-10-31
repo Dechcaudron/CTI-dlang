@@ -1,0 +1,10 @@
+{
+	"copyright": "Copyright © 2016, Dechcaudron",
+	"name": "cti",
+	"authors": [
+		"Dechcaudron <Héctor Barreras Almarcha>"
+	],
+	"description": "A small collection of utilities to ease the use and debugging of Compile Time Interfaces",
+	"license": "GPL3",
+	"targetPath" : "out"
+}
